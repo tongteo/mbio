@@ -9,7 +9,7 @@ const Header = () => {
     <header>
       <div className="container header__container">
         <h1>Xin chào, tôi là </h1>
-        <h2>Hứa Thạch Vĩnh Trung</h2>
+        <h2>Trung</h2>
         <h3 className="text-light">Sinh viên trường Đại học Bạc Liêu khóa 13(2019-2023) </h3>
         <CTA />
         <HeaderSocials />
